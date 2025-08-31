@@ -115,7 +115,7 @@ body {
 
 .list-inline li {
     display: inline-block;
-    background-color: #94607d;
+    background-color: #d699bb;
     padding: 0.5rem 1rem;
     border-radius: 20px;
     margin: 0.5rem;
@@ -126,12 +126,12 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     gap: 2rem;
-    color: #41093c;
+    color: #853a7e;
 }
 
 .skill-group {
     text-align: center;
-    color: #41093c;
+    color: #994092;
 }
 
 /* Linktree Section */
